@@ -3,6 +3,8 @@
 # Nov 19, 2024
 
 
+# Problem 1
+
 # Write an infinite loop that prints “Infinite”. An infinite loop never ends. The
 # condition is always true. After you prove to yourself that this works, comment out the code that
 # produces the infinite loop. To break a loop in progress you should be able to do ctrl-C or
@@ -17,7 +19,7 @@
 # This will print out Infinite until I do ctrl-C and break the loop.
 
 
-
+# Problem 2
 # Create a list called L that starts with the numbers 57 and 83 in it. Then build a while
 # loop, starting with a counter assigned to the value 0. On each iteration, the loop should append
 # the current value of a counter variable to the list and then increase the counter by 1. The while
@@ -40,6 +42,7 @@
 # After the loop, L will contain [57, 83, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10], giving it a total of 13 elements (2 starting values plus 11 from the loop).
 
 
+# Problem 3
 
 # Using a while loop, ask the user to enter a number. Append each entered number
 # to a list and add them together. Continue asking for a number until the sum of the list of
